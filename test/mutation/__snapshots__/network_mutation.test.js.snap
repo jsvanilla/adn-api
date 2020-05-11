@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test the response snapshot Check Error Mutation response Snapshot 1`] = `"\\"{\\\\\\"error\\\\\\":false,\\\\\\"status\\\\\\":403,\\\\\\"body\\\\\\":\\\\\\"No se encontró mutación alguna en la cadena de ADN\\\\\\"}\\""`;
+
+exports[`Test the response snapshot Check Mutation response Snapshot 1`] = `"\\"{\\\\\\"error\\\\\\":false,\\\\\\"status\\\\\\":200,\\\\\\"body\\\\\\":\\\\\\"¡ Se encontró una mutación en la cadena de ADN !\\\\\\"}\\""`;
+
+exports[`Test the response snapshot Check Not mutation response Snapshot 1`] = `"\\"{\\\\\\"error\\\\\\":false,\\\\\\"status\\\\\\":403,\\\\\\"body\\\\\\":\\\\\\"No se encontró mutación alguna en la cadena de ADN\\\\\\"}\\""`;
